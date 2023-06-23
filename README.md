@@ -1,6 +1,12 @@
 # Login and Registration Page
 Portuguese version at the end
 
+View in codepen : 
+
+https://codepen.io/reis567/pen/abQZgqp
+
+https://codepen.io/reis567/pen/jOQrvoG
+
 This is a set of HTML and CSS files that implement basic login and registration pages. The code consists of two HTML files: `login.html` and `registration.html`, and a shared CSS file: `style.css`.
 
 ## login.html
@@ -71,6 +77,14 @@ Make sure to replace any placeholder content or code snippets with your actual p
 ### PORTUGUÊS
 
 # Página de Login e Cadastro
+
+
+Veja no  codepen : 
+
+https://codepen.io/reis567/pen/abQZgqp
+
+https://codepen.io/reis567/pen/jOQrvoG
+
 
 Este é um conjunto de arquivos HTML e CSS que implementa páginas de login e cadastro básicas. O código consiste em dois arquivos HTML: `login.html` e `cadastro.html`, e um arquivo CSS compartilhado: `style.css`.
 
